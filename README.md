@@ -110,10 +110,6 @@ O projeto pode ser implantado em qualquer plataforma que suporte Next.js. Recome
 
 ## Suporte
 
-Para suporte técnico ou dúvidas sobre a integração com o Gourmet Droid, entre em contato:
-
-- Email: suporte@seudominio.com
-- WhatsApp: (XX) XXXX-XXXX
 
 ## Licença
 
